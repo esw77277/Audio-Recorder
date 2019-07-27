@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "372092698299",
+    "firebase_url": "https://audiorecorder-90b75.firebaseio.com",
+    "project_id": "audiorecorder-90b75",
+    "storage_bucket": "audiorecorder-90b75.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:372092698299:android:1e67f588ca6fd666",
+        "android_client_info": {
+          "package_name": "com.snpl.audiorecorder"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "372092698299-p37u4otdvfjq0da3jbdk3u51ai0bc6cn.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.snpl.audiorecorder",
+            "certificate_hash": "84163828f7cd1173db38e8595a325b78d4e9bc0a"
+          }
+        },
+        {
+          "client_id": "372092698299-j1e4dtoicrsuqadm40mdtk10bdhvdofa.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyAwXxM6hHr8nM2x3UNNKdiTNZ1_ddcZjM8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "372092698299-j1e4dtoicrsuqadm40mdtk10bdhvdofa.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
